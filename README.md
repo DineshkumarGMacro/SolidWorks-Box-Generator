@@ -20,8 +20,5 @@ This macro automates the creation of a 3D box in SolidWorks based on user input 
 - Parametric part creation
 - User Input with `InputBox`
 
-## 🛠 Sample Output
-![Screenshot](screenshot.png)
-
 ## 🤖 Built With AI Assistance
 This macro was developed with help from ChatGPT to accelerate development, but all logic was implemented, tested, and documented by me.
